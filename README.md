@@ -58,8 +58,7 @@ with a median of 76. Venus has no retrograde at all in 2027.
 
 ## Files
 
-- `data/ephem-2027.json` — stations with degrees, slow and fast ingresses, eclipses with
-  per-city local circumstances.
+- `data/ephem-2027.json` — stations with degrees, slow and fast ingresses, eclipses with per-city local circumstances. Canonical copy, always current: https://astromapa.space/data/ephem-2027.json
 
 ## Verify it yourself
 
