@@ -70,30 +70,13 @@ A dated fact that cannot be checked is worth nothing.
 Astronomical facts are not copyrightable. This dataset is released under CC0 1.0: use it,
 republish it, no attribution required.
 
-## The calculator that uses this data
+## Documentation
 
-Horoscope 2027 hubs:
-[Español](https://astromapa.space/es/horoscopo-2027/) ·
-[Português](https://astromapa.space/br/horoscopo-2027/) ·
-[Українська](https://astromapa.space/uk/goroskop-2027/) ·
-[English](https://astromapa.space/en/horoscope-2027/)
-
-2027 eclipses, with per-city times:
-[Español](https://astromapa.space/es/blog/eclipses-2027/) ·
-[Português](https://astromapa.space/br/blog/eclipses-2027/) ·
-[Українська](https://astromapa.space/uk/blog/zatemnennya-2027/) ·
-[English](https://astromapa.space/en/blog/eclipses-2027/)
-
-2027 astrological calendar, month by month:
+The month-by-month write-up of this data, with the reasoning behind each date:
 [Español](https://astromapa.space/es/blog/calendario-astrologico-2027/) ·
 [Português](https://astromapa.space/br/blog/calendario-astrologico-2027/) ·
 [Українська](https://astromapa.space/uk/blog/astrolohichnyi-kalendar-2027/) ·
 [English](https://astromapa.space/en/blog/astrological-calendar-2027/)
 
-Free natal chart:
-[Español](https://astromapa.space/es/mapa/) ·
-[Português](https://astromapa.space/br/mapa/) ·
-[Українська](https://astromapa.space/uk/mapa/) ·
-[English](https://astromapa.space/en/mapa/)
-
-Charts are computed in the visitor's browser; birth data is not stored server-side.
+Produced for [AstroMapa](https://astromapa.space), where charts are computed in the
+visitor's browser and birth data is not stored server-side.
