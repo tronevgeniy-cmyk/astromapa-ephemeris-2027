@@ -1,0 +1,565 @@
+{
+ "dataset": "AstroMapa 2027 ephemeris",
+ "canonical_url": "https://astromapa.space/data/ephem-2027.json",
+ "license": "CC0-1.0",
+ "documentation": {
+  "es": "https://astromapa.space/es/blog/calendario-astrologico-2027/",
+  "br": "https://astromapa.space/br/blog/calendario-astrologico-2027/",
+  "uk": "https://astromapa.space/uk/blog/astrolohichnyi-kalendar-2027/",
+  "en": "https://astromapa.space/en/blog/astrological-calendar-2027/"
+ },
+ "computed_with": "astronomy-engine (assets/js/astronomy.min.js), geocentric apparent ecliptic longitude",
+ "computed_on": "2026-11-18",
+ "note": "Станции уточнены бисекцией до часа. Проверка: асцендент того же движка сверен со Swiss Ephemeris на Киеве, Сан-Паулу и Мадриде.",
+ "stations": [
+  {
+   "planet": "Mercury",
+   "kind": "retrograde",
+   "utc": "2027-02-09 18:00",
+   "at": {
+    "deg": 5,
+    "min": 59,
+    "sign": "Pisces"
+   }
+  },
+  {
+   "planet": "Mercury",
+   "kind": "direct",
+   "utc": "2027-03-03 12:45",
+   "at": {
+    "deg": 20,
+    "min": 55,
+    "sign": "Aquarius"
+   }
+  },
+  {
+   "planet": "Mercury",
+   "kind": "retrograde",
+   "utc": "2027-06-10 18:45",
+   "at": {
+    "deg": 6,
+    "min": 22,
+    "sign": "Cancer"
+   }
+  },
+  {
+   "planet": "Mercury",
+   "kind": "direct",
+   "utc": "2027-07-04 20:15",
+   "at": {
+    "deg": 27,
+    "min": 28,
+    "sign": "Gemini"
+   }
+  },
+  {
+   "planet": "Mercury",
+   "kind": "retrograde",
+   "utc": "2027-10-07 15:00",
+   "at": {
+    "deg": 4,
+    "min": 56,
+    "sign": "Scorpio"
+   }
+  },
+  {
+   "planet": "Mercury",
+   "kind": "direct",
+   "utc": "2027-10-28 14:15",
+   "at": {
+    "deg": 19,
+    "min": 19,
+    "sign": "Libra"
+   }
+  },
+  {
+   "planet": "Mars",
+   "kind": "retrograde",
+   "utc": "2027-01-10 13:30",
+   "at": {
+    "deg": 10,
+    "min": 26,
+    "sign": "Virgo"
+   }
+  },
+  {
+   "planet": "Mars",
+   "kind": "direct",
+   "utc": "2027-04-01 14:15",
+   "at": {
+    "deg": 20,
+    "min": 56,
+    "sign": "Leo"
+   }
+  },
+  {
+   "planet": "Jupiter",
+   "kind": "direct",
+   "utc": "2027-04-13 02:15",
+   "at": {
+    "deg": 17,
+    "min": 0,
+    "sign": "Leo"
+   }
+  },
+  {
+   "planet": "Saturn",
+   "kind": "retrograde",
+   "utc": "2027-08-09 18:00",
+   "at": {
+    "deg": 27,
+    "min": 53,
+    "sign": "Aries"
+   }
+  },
+  {
+   "planet": "Saturn",
+   "kind": "direct",
+   "utc": "2027-12-24 03:00",
+   "at": {
+    "deg": 21,
+    "min": 1,
+    "sign": "Aries"
+   }
+  },
+  {
+   "planet": "Uranus",
+   "kind": "direct",
+   "utc": "2027-02-08 12:45",
+   "at": {
+    "deg": 1,
+    "min": 41,
+    "sign": "Gemini"
+   }
+  },
+  {
+   "planet": "Uranus",
+   "kind": "retrograde",
+   "utc": "2027-09-15 09:45",
+   "at": {
+    "deg": 9,
+    "min": 57,
+    "sign": "Gemini"
+   }
+  },
+  {
+   "planet": "Neptune",
+   "kind": "retrograde",
+   "utc": "2027-07-09 23:15",
+   "at": {
+    "deg": 6,
+    "min": 40,
+    "sign": "Aries"
+   }
+  },
+  {
+   "planet": "Neptune",
+   "kind": "direct",
+   "utc": "2027-12-15 09:45",
+   "at": {
+    "deg": 3,
+    "min": 51,
+    "sign": "Aries"
+   }
+  },
+  {
+   "planet": "Pluto",
+   "kind": "retrograde",
+   "utc": "2027-05-08 12:45",
+   "at": {
+    "deg": 7,
+    "min": 11,
+    "sign": "Aquarius"
+   }
+  },
+  {
+   "planet": "Pluto",
+   "kind": "direct",
+   "utc": "2027-10-18 04:30",
+   "at": {
+    "deg": 4,
+    "min": 45,
+    "sign": "Aquarius"
+   }
+  }
+ ],
+ "ingresses": [
+  {
+   "planet": "Mars",
+   "utc": "2027-02-21 15:00",
+   "into": "Leo"
+  },
+  {
+   "planet": "Mars",
+   "utc": "2027-05-14 15:00",
+   "into": "Virgo"
+  },
+  {
+   "planet": "Mars",
+   "utc": "2027-07-15 06:00",
+   "into": "Libra"
+  },
+  {
+   "planet": "Mars",
+   "utc": "2027-09-02 02:15",
+   "into": "Scorpio"
+  },
+  {
+   "planet": "Mars",
+   "utc": "2027-10-15 23:15",
+   "into": "Sagittarius"
+  },
+  {
+   "planet": "Mars",
+   "utc": "2027-11-25 18:45",
+   "into": "Capricorn"
+  },
+  {
+   "planet": "Jupiter",
+   "utc": "2027-07-26 05:15",
+   "into": "Virgo"
+  }
+ ],
+ "ingresses_fast": [
+  {
+   "planet": "Mercury",
+   "utc": "2027-01-13 06:45",
+   "into": "Aquarius"
+  },
+  {
+   "planet": "Mercury",
+   "utc": "2027-02-01 01:30",
+   "into": "Pisces"
+  },
+  {
+   "planet": "Mercury",
+   "utc": "2027-02-18 12:45",
+   "into": "Aquarius"
+  },
+  {
+   "planet": "Mercury",
+   "utc": "2027-03-18 10:30",
+   "into": "Pisces"
+  },
+  {
+   "planet": "Mercury",
+   "utc": "2027-04-09 00:00",
+   "into": "Aries"
+  },
+  {
+   "planet": "Mercury",
+   "utc": "2027-04-24 22:30",
+   "into": "Taurus"
+  },
+  {
+   "planet": "Mercury",
+   "utc": "2027-05-09 02:15",
+   "into": "Gemini"
+  },
+  {
+   "planet": "Mercury",
+   "utc": "2027-05-28 17:15",
+   "into": "Cancer"
+  },
+  {
+   "planet": "Mercury",
+   "utc": "2027-06-26 07:30",
+   "into": "Gemini"
+  },
+  {
+   "planet": "Mercury",
+   "utc": "2027-07-12 14:15",
+   "into": "Cancer"
+  },
+  {
+   "planet": "Mercury",
+   "utc": "2027-08-02 11:15",
+   "into": "Leo"
+  },
+  {
+   "planet": "Mercury",
+   "utc": "2027-08-17 05:15",
+   "into": "Virgo"
+  },
+  {
+   "planet": "Mercury",
+   "utc": "2027-09-03 12:00",
+   "into": "Libra"
+  },
+  {
+   "planet": "Mercury",
+   "utc": "2027-09-27 09:45",
+   "into": "Scorpio"
+  },
+  {
+   "planet": "Mercury",
+   "utc": "2027-10-16 08:15",
+   "into": "Libra"
+  },
+  {
+   "planet": "Mercury",
+   "utc": "2027-11-10 00:45",
+   "into": "Scorpio"
+  },
+  {
+   "planet": "Mercury",
+   "utc": "2027-11-29 10:30",
+   "into": "Sagittarius"
+  },
+  {
+   "planet": "Mercury",
+   "utc": "2027-12-18 12:00",
+   "into": "Capricorn"
+  },
+  {
+   "planet": "Venus",
+   "utc": "2027-01-07 09:00",
+   "into": "Sagittarius"
+  },
+  {
+   "planet": "Venus",
+   "utc": "2027-02-03 15:00",
+   "into": "Capricorn"
+  },
+  {
+   "planet": "Venus",
+   "utc": "2027-03-01 06:45",
+   "into": "Aquarius"
+  },
+  {
+   "planet": "Venus",
+   "utc": "2027-03-26 09:00",
+   "into": "Pisces"
+  },
+  {
+   "planet": "Venus",
+   "utc": "2027-04-20 04:30",
+   "into": "Aries"
+  },
+  {
+   "planet": "Venus",
+   "utc": "2027-05-14 21:45",
+   "into": "Taurus"
+  },
+  {
+   "planet": "Venus",
+   "utc": "2027-06-08 12:45",
+   "into": "Gemini"
+  },
+  {
+   "planet": "Venus",
+   "utc": "2027-07-03 02:15",
+   "into": "Cancer"
+  },
+  {
+   "planet": "Venus",
+   "utc": "2027-07-27 12:45",
+   "into": "Leo"
+  },
+  {
+   "planet": "Venus",
+   "utc": "2027-08-20 20:15",
+   "into": "Virgo"
+  },
+  {
+   "planet": "Venus",
+   "utc": "2027-09-14 00:45",
+   "into": "Libra"
+  },
+  {
+   "planet": "Venus",
+   "utc": "2027-10-08 04:30",
+   "into": "Scorpio"
+  },
+  {
+   "planet": "Venus",
+   "utc": "2027-11-01 08:15",
+   "into": "Sagittarius"
+  },
+  {
+   "planet": "Venus",
+   "utc": "2027-11-25 12:00",
+   "into": "Capricorn"
+  },
+  {
+   "planet": "Venus",
+   "utc": "2027-12-19 18:45",
+   "into": "Aquarius"
+  }
+ ],
+ "eclipses": [
+  {
+   "date": "2027-02-06",
+   "utc_peak": "15:59",
+   "type": "кольцеобразное солнечное",
+   "max_obscuration_pct": 86.1,
+   "greatest_eclipse_at": {
+    "lat": -31.29,
+    "lon": -48.47,
+    "where": "Атлантика у берегов Уругвая / юга Бразилии"
+   },
+   "local": [
+    [
+     "Rio de Janeiro",
+     84,
+     "16:29"
+    ],
+    [
+     "Porto Alegre",
+     83,
+     "15:56"
+    ],
+    [
+     "Florianópolis",
+     83,
+     "16:07"
+    ],
+    [
+     "São Paulo",
+     78,
+     "16:21"
+    ],
+    [
+     "Curitiba",
+     76,
+     "16:11"
+    ],
+    [
+     "Belo Horizonte",
+     76,
+     "16:35"
+    ],
+    [
+     "Salvador",
+     74,
+     "17:01"
+    ],
+    [
+     "Recife",
+     71,
+     "17:16"
+    ],
+    [
+     "Brasília",
+     58,
+     "16:38"
+    ]
+   ],
+   "local_note": "покрытие в % и время максимума в UTC; из всех перечисленных городов фаза ЧАСТНАЯ, кольца не видно"
+  },
+  {
+   "date": "2027-08-02",
+   "utc_peak": "10:06",
+   "type": "полное солнечное",
+   "greatest_eclipse_at": {
+    "lat": 25.49,
+    "lon": 33.19,
+    "where": "Египет, район Луксора"
+   },
+   "local": [
+    [
+     "Málaga",
+     "полное",
+     100.0,
+     "08:48:57",
+     "центральная фаза 1м50с"
+    ],
+    [
+     "Cádiz",
+     "полное",
+     100.0,
+     "08:46:44",
+     "центральная фаза 2м54с"
+    ],
+    [
+     "Tarifa",
+     "полное",
+     100.0,
+     null,
+     null
+    ],
+    [
+     "Almería",
+     "частное",
+     99.97,
+     "08:51:23",
+     "НЕ полное — 99,97%"
+    ],
+    [
+     "Granada",
+     "частное",
+     99.0,
+     "08:50:04",
+     null
+    ],
+    [
+     "Sevilla",
+     "частное",
+     98.0,
+     "08:47:24",
+     null
+    ],
+    [
+     "Lisboa",
+     "частное",
+     92.0,
+     "08:44:44",
+     null
+    ],
+    [
+     "Valencia",
+     "частное",
+     90.0,
+     "08:54:43",
+     null
+    ],
+    [
+     "Madrid",
+     "частное",
+     86.0,
+     "08:51:08",
+     null
+    ],
+    [
+     "Barcelona",
+     "частное",
+     82.0,
+     "08:58:24",
+     null
+    ],
+    [
+     "Las Palmas",
+     "частное",
+     77.0,
+     "08:34:20",
+     null
+    ],
+    [
+     "Bilbao",
+     "частное",
+     74.0,
+     "08:53:10",
+     null
+    ]
+   ]
+  },
+  {
+   "date": "2027-02-20",
+   "utc_peak": "23:12",
+   "type": "полутеневое лунное",
+   "warning": "полутеневое — визуально почти ничего, обещать зрелище нельзя"
+  },
+  {
+   "date": "2027-07-18",
+   "utc_peak": "16:02",
+   "type": "полутеневое лунное",
+   "warning": "то же"
+  },
+  {
+   "date": "2027-08-17",
+   "utc_peak": "07:13",
+   "type": "полутеневое лунное",
+   "warning": "то же"
+  }
+ ]
+}
